@@ -1,8 +1,8 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "released": "2026-10-26",
-  "url": "https://github.com/Seb4tron/strike-eagle-dtc-releases/releases/download/v0.1.0/strike-eagle-dtc-0.1.0.zip",
-  "page": "https://github.com/Seb4tron/strike-eagle-dtc-releases/releases/tag/v0.1.0",
-  "sha256": "e9e3b0a1193af8e60d961c457aa4b65f9f1fb0db1abb9495d57024dab38811c0",
-  "notes": "First tester version"
+  "url": "https://github.com/Seb4tron/strike-eagle-dtc-releases/releases/download/v0.2.0/strike-eagle-dtc-0.2.0.zip",
+  "page": "https://github.com/Seb4tron/strike-eagle-dtc-releases/releases/tag/v0.2.0",
+  "sha256": "bb2cc09395b1bb9b86e9a54cad5d12c24b7566c108197618564f577d0679cb04",
+  "notes": "Update check and Update now button"
 }
