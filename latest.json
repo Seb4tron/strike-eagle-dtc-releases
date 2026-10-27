@@ -1,8 +1,8 @@
 {
-  "version": "0.2.1",
-  "released": "2026-10-27",
-  "url": "https://github.com/Seb4tron/strike-eagle-dtc-releases/releases/download/v0.2.1/strike-eagle-dtc-0.2.1.zip",
-  "page": "https://github.com/Seb4tron/strike-eagle-dtc-releases/releases/tag/v0.2.1",
-  "sha256": "9719d19e675ead6bcc66dc5d97beb8133c3f617e47754f5747e71023984ed6de",
-  "notes": "Time plan, coordinate formats, leg labels, export into the F15E folder"
+  "version": "0.2.2",
+  "released": "2026-10-28",
+  "url": "https://github.com/Seb4tron/strike-eagle-dtc-releases/releases/download/v0.2.2/strike-eagle-dtc-0.2.2.zip",
+  "page": "https://github.com/Seb4tron/strike-eagle-dtc-releases/releases/tag/v0.2.2",
+  "sha256": "ae0e367cfc34d4298b4ea0a55e00d85dfddbf2fa24f881c0e0b081b7c00a7da6",
+  "notes": "Safer route import, paste into offset and CC editors, more checks"
 }
