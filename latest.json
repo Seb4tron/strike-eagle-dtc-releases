@@ -1,8 +1,8 @@
 {
-  "version": "0.2.5",
+  "version": "0.2.6",
   "released": "2026-10-28",
-  "url": "https://github.com/Seb4tron/strike-eagle-dtc-releases/releases/download/v0.2.5/strike-eagle-dtc-0.2.5.zip",
-  "page": "https://github.com/Seb4tron/strike-eagle-dtc-releases/releases/tag/v0.2.5",
-  "sha256": "426390510d01026295d4a8af522a57f53ca69b429abdac81ba4f4a580bdbbb34",
-  "notes": "Edit shapes on the map, circle, rectangle and triangle"
+  "url": "https://github.com/Seb4tron/strike-eagle-dtc-releases/releases/download/v0.2.6/strike-eagle-dtc-0.2.6.zip",
+  "page": "https://github.com/Seb4tron/strike-eagle-dtc-releases/releases/tag/v0.2.6",
+  "sha256": "e19001ce9b641ca08d5556c54d64fcc62b8da5ee72fdc19a7bb48b89ba854dd4",
+  "notes": "Place offset and aim points by clicking the map"
 }
