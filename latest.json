@@ -1,8 +1,8 @@
 {
-  "version": "0.2.3",
+  "version": "0.2.4",
   "released": "2026-10-28",
-  "url": "https://github.com/Seb4tron/strike-eagle-dtc-releases/releases/download/v0.2.3/strike-eagle-dtc-0.2.3.zip",
-  "page": "https://github.com/Seb4tron/strike-eagle-dtc-releases/releases/tag/v0.2.3",
-  "sha256": "b5eae0cec431c302b2e45396ca9f70b746dc7c3715feb5fa51afa100146b7077",
-  "notes": "Magnetic bearings, mission date from the mission"
+  "url": "https://github.com/Seb4tron/strike-eagle-dtc-releases/releases/download/v0.2.4/strike-eagle-dtc-0.2.4.zip",
+  "page": "https://github.com/Seb4tron/strike-eagle-dtc-releases/releases/tag/v0.2.4",
+  "sha256": "a82099515642fe0751309e6a160098476506a2f33c43f41a6745005c7be638ad",
+  "notes": "Shape colour and line style"
 }
