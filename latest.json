@@ -1,8 +1,8 @@
 {
-  "version": "0.2.9",
+  "version": "0.2.10",
   "released": "2026-10-29",
-  "url": "https://github.com/Seb4tron/strike-eagle-dtc-releases/releases/download/v0.2.9/strike-eagle-dtc-0.2.9.zip",
-  "page": "https://github.com/Seb4tron/strike-eagle-dtc-releases/releases/tag/v0.2.9",
-  "sha256": "78830d767049ae232a0293fd24c0067a52e6038030c4bfad8017473a60f4b4b8",
-  "notes": "Threat rings and detection ranges for air defence sites"
+  "url": "https://github.com/Seb4tron/strike-eagle-dtc-releases/releases/download/v0.2.10/strike-eagle-dtc-0.2.10.zip",
+  "page": "https://github.com/Seb4tron/strike-eagle-dtc-releases/releases/tag/v0.2.10",
+  "sha256": "e39d2ef514852b9815291e07b03f09beb7d82965022e15e2e4b8c22da7dcbb4c",
+  "notes": "Threat ranges: one-time setup in the tool, hook included"
 }
